@@ -1,0 +1,11 @@
+---
+title: "Yuan's Website"
+output:
+  html_document:
+    df_print: paged
+---
+
+Welcome to my website!  
+I am a master student at SUSTech of Tian's group, my research is about learn some interesed things.  
+Here is my group！
+<img src="figs/group.jpg" alt="drawing" />
